@@ -38,10 +38,10 @@ We will help you master Deep Learning, understand how to apply it, and build a c
 
 ### Course 1: Neural Networks and Deep Learning
 
-#### Week 1:
-#### Week 2:
-#### Week 3:
-#### Week 4:
+#### Week 1: [Quiz: Introduction to deep learning](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/Quiz:%20Introduction%20to%20deep%20learning.png) 
+#### Week 2: [Quiz: Neural Network Basics](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Quiz:%20Neural%20Network%20Basics.png) || [Programming Assignment: Logistic Regression with a Neural Network mindset](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Assignment:%20Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.png)
+#### Week 3: [Quiz: Shallow Neural Networks](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Quiz:%20Shallow%20Neural%20Networks.png) || [Programming Assignment: Planar data classification with a hidden layer](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Programming%20Assignment:%20Planar%20data%20classification%20with%20a%20hidden%20layer.png)
+#### Week 4: [Quiz: Key concepts on Deep Neural Networks](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Quiz:%20Key%20concepts%20on%20Deep%20Neural%20Networks.png) || [Programming Assignment: Building your deep neural network: Step by Step](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Assignment:%20Building%20your%20deep%20neural%20network:%20Step%20by%20Step.png) || [Programming Assignment: Deep Neural Network Application](https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Assignment:%20Deep%20Neural%20Network%20Application.png) 
 
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
