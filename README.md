@@ -35,6 +35,10 @@ AI is transforming multiple industries. After finishing this specialization, you
 We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
 ### Course 1: Neural Networks and Deep Learning
+   ####          Week 1:
+   ####          Week 2:
+   ####          Week 3:
+   ####          Week 4:
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
