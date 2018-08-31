@@ -8,7 +8,21 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). There are also additional materials for references.
 
-# About This Specialization
+## Tools and Frameworks used:
+
+<div align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"><br><br>
+</div>
+
+<div align="center">
+  <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
+</div>
+
+<div align="center">
+  <img src=https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png><br><br>
+</div>
+
+## About This Specialization
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 
@@ -20,12 +34,12 @@ AI is transforming multiple industries. After finishing this specialization, you
 
 We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
-## Course 1: Neural Networks and Deep Learning
+### Course 1: Neural Networks and Deep Learning
 
-## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-## Course 3: Structuring Machine Learning Projects
+### Course 3: Structuring Machine Learning Projects
 
-## Course 4: Convolutional Neural Networks
+### Course 4: Convolutional Neural Networks
 
-## Course 5: Sequence Models
+### Course 5: Sequence Models
