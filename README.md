@@ -59,10 +59,10 @@ We will help you master Deep Learning, understand how to apply it, and build a c
 
 ### Course 4: Convolutional Neural Networks:sweat_smile:
 
-#### Week 1:
-#### Week 2:
-#### Week 3:
-#### Week 4:
+#### Week 1: [Quiz: The basics of ConvNets]() || [Programming Assignment: Convolutional Model: step by step](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb) || [Programming Assignment: Convolutional model: application](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+#### Week 2: [Quiz: Deep convolutional models]() || [Keras Tutorial - The Happy House (not graded)](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week2/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb) || [Programming Assignment: Residual Networks](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week2/ResNets/Residual%20Networks%20-%20v2.ipynb)
+#### Week 3: [Quiz: Detection algorithms]() || [Programming Assignment: Car detection with YOLOv2](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Car-detection-with-YOLO/blob/master/Car%20detection%20with%20YOLO/Autonomous%20driving%20application%20-%20Car%20detection.ipynb)
+#### Week 4: [Quiz: Special applications: Face recognition & Neural style transfer]() || [Programming Assignment: Art generation with Neural Style Transfer](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Neural-Style-Transfer/blob/master/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb) || [Programming Assignment: Face Recognition for the Happy House](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 
 
 ### Course 5: Sequence Models:heart_eyes:
