@@ -16,13 +16,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"><br><br>
 </div>
 
-<div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
-</div>
-
-<div align="center">
-  <img src=https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png><br><br>
-</div>
+![logo](/images/image1.jpg)
 
 ## About This Specialization:yum::sunglasses::blush:
 
